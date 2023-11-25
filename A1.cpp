@@ -268,12 +268,16 @@
 //     return 0;
 // }
 
-////FUNCTION CALL BY VALUE & BY REFERENCE
+
+//FUNCTION CALL BY VALUE & BY REFERENCE
 #include<iostream>
 using namespace std;
 // int main(){
+//n is normal integer
 //     int n=5;
+//k is reference variable referring to n
 //     int &k=n;
+//c is reference variable referring to n
 //     int &c=n;
 //     cout<<"n: "<<n<<endl;
 //     cout<<"k: "<<k<<endl;
@@ -284,6 +288,9 @@ using namespace std;
 //     cout<<"n: "<<n<<endl;
 //     cout<<"k: "<<k<<endl;
 //     cout<<"c: "<<c<<endl;
+
+//error ayega- ek variable ban sakta hai par constant ka nickname nahi
+// int &t=6;
 
 //CALL BY VALUE
 // int incrementBy1(int n){
