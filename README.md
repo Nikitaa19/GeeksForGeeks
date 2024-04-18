@@ -1,3 +1,3 @@
-Data Structures And Algorithms
+Repository to track my progress.
 
-To keep the track of my progress.
+DSA Questions
