@@ -1,3 +1,3 @@
 Data Structures And Algorithms
 
-To keep track of my progress.
+To keep the track of my progress.
