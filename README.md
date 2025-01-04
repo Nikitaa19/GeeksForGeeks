@@ -1,1 +1,0 @@
-# GeeksforGeeks Questions
