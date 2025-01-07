@@ -1,2 +1,2 @@
 ## GeeksForGeeks
-GeeksForGeeks Programming
+GeeksForGeeks Programming.
